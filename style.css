@@ -173,6 +173,16 @@ button:focus {
         border-bottom-right-radius: 5px;
         border-bottom-left-radius: 5px;
     }
+    h1{
+        margin-top:12px ;
+
+    }
+    p{
+        margin-bottom:12px ;
+    }
+    .btn{
+        margin-bottom: 12px;
+    }
 }
 .btn {
     -webkit-border-radius: 40;
